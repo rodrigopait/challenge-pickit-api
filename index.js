@@ -8,7 +8,7 @@ const serviceRoutes = require("./routes/service");
 const carServiceRoutes = require("./routes/carService");
 
 const MONGODB_URI =
-  "mongodb+srv://rodrigopait:4xlBHJtqhhY0Kxx1@cluster0.4ycgg.mongodb.net/pickit?retryWrites=true&w=majority";
+  "mongodb+srv://user:pass@cluster0.4ycgg.mongodb.net/pickit?retryWrites=true&w=majority";
 
 const app = express();
 
