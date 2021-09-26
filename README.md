@@ -3,5 +3,7 @@
 Run:
 
 npm install
+
 npm run seed 
+
 npm start 
